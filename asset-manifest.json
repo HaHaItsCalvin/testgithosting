@@ -1,14 +1,14 @@
 {
-  "main.css": "/testgithosting/static/css/main.5f4ca9a1.chunk.css",
-  "main.js": "/testgithosting/static/js/main.8ad93644.chunk.js",
-  "main.js.map": "/testgithosting/static/js/main.8ad93644.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/testgithosting/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/testgithosting/static/js/1.6105a37c.chunk.js.map",
+  "main.css": "/testgithosting/static/css/main.8886b34f.chunk.css",
+  "main.js": "/testgithosting/static/js/main.7591ec6f.chunk.js",
+  "main.js.map": "/testgithosting/static/js/main.7591ec6f.chunk.js.map",
+  "static/js/1.694ff024.chunk.js": "/testgithosting/static/js/1.694ff024.chunk.js",
+  "static/js/1.694ff024.chunk.js.map": "/testgithosting/static/js/1.694ff024.chunk.js.map",
   "runtime~main.js": "/testgithosting/static/js/runtime~main.fe20a00e.js",
   "runtime~main.js.map": "/testgithosting/static/js/runtime~main.fe20a00e.js.map",
-  "static/media/logo.svg": "/testgithosting/static/media/logo.5d5d9eef.svg",
-  "static/css/main.5f4ca9a1.chunk.css.map": "/testgithosting/static/css/main.5f4ca9a1.chunk.css.map",
+  "static/media/Corgeek.jpg": "/testgithosting/static/media/Corgeek.4ab31dc4.jpg",
+  "static/css/main.8886b34f.chunk.css.map": "/testgithosting/static/css/main.8886b34f.chunk.css.map",
   "index.html": "/testgithosting/index.html",
-  "precache-manifest.96c4881281277107d37f1efba2824e9c.js": "/testgithosting/precache-manifest.96c4881281277107d37f1efba2824e9c.js",
+  "precache-manifest.2e34420d51a851fc4ad7bbd5add2a229.js": "/testgithosting/precache-manifest.2e34420d51a851fc4ad7bbd5add2a229.js",
   "service-worker.js": "/testgithosting/service-worker.js"
 }
